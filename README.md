@@ -23,11 +23,11 @@
 | Project | What it does | Stack |
 |---|---|---|
 | **FinSight** | AI-powered financial analytics platform. Processes annual reports with PDF extraction, section-aware chunking and semantic indexing, routes 10+ query types to SQL, semantic or hybrid retrieval, and validates AI-generated numerical answers against SQL results and source passages. | Java · Spring Boot · RAG · PostgreSQL · pgvector · Redis · React |
-| **GenoSkin** | Explainable phenotype-to-gene matching for rare genetic skin disorders. Integrates 5 public data sources (386 diseases, 309 genes, 7,879 annotations) and lifts top-10 accuracy from 84% to 96% with a semantic similarity ranking model, backed by 26 automated tests. | Python · SQLite · Matplotlib · Ontology-based Similarity · HPO |
 | **HireDesk** | AI resume screening app using Sentence-BERT embeddings and cosine similarity to match 100+ resumes against job descriptions. Retrieval quality evaluated across 20 job descriptions with Precision@5/10, Recall@10 and NDCG@10. | Python · spaCy · Streamlit · SBERT · DistilBERT · NLP · SQLite |
 | **CareerForge** | Placement preparation platform with 15+ REST APIs, JWT auth, role-based access control, Redis caching and 40+ API test cases. | Java · Spring Boot · MySQL · Docker · AWS |
 | **NeuroGrip** | Real-time driver fatigue detection using an LSTM that classifies four driver states from 10,836 labeled samples, integrated with an ESP32 setup. | Python · PyTorch · C · ESP32 · FreeRTOS |
 | **Nivas** | Society maintenance management platform with 11 REST APIs, role-based access and complaint tracking, deployed end to end. | Next.js · TypeScript · PostgreSQL · JWT |
+| **GenoSkin** | Explainable phenotype-to-gene matching for rare genetic skin disorders. Integrates 5 public data sources (386 diseases, 309 genes, 7,879 annotations) and lifts top-10 accuracy from 84% to 96% with a semantic similarity ranking model, backed by 26 automated tests. | Python · SQLite · Matplotlib · Ontology-based Similarity · HPO |
 
 ---
 
@@ -62,18 +62,6 @@
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-
----
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" alt="GitHub stats" src="https://github-readme-stats.shion.dev/api?username=JanaviPawar&theme=dark&hide_border=true&include_all_commits=false&count_private=false">
-  <img height="170" alt="Top languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=JanaviPawar&theme=dark&hide_border=true&layout=compact">
-</p>
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=JanaviPawar&theme=dark&hide_border=true">
-</p>
 
 ---
 
