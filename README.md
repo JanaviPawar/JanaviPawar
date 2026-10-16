@@ -2,7 +2,7 @@
 
 <p align="center">
   Computer Science undergraduate at VIT and AWS Certified Solutions Architect – Associate<br/>
-  I build RAG systems and APIs, test them properly, and use AI to solve practical problems.
+  I build systems and APIs, test them properly, and use AI to solve practical problems.
 </p>
 
 <p align="center">
