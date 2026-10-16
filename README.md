@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="YOUR_PORTFOLIO_URL"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="YOUR_RESUME_LINK"><img alt="Resume" src="https://img.shields.io/badge/Resume-B31B1B?style=for-the-badge&logo=readme&logoColor=white"></a>
+  <a href="https://drive.google.com/file/d/1s-Bo93YhSr-p4Z37zwO2W6xLR-u8Y0yH/view?usp=sharing"><img alt="Resume" src="https://img.shields.io/badge/Resume-B31B1B?style=for-the-badge&logo=readme&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/janavipawar"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:pawarjanavi836@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
